@@ -1,0 +1,14 @@
+# CLion / CMake 编译产物
+cmake-build-*/
+.idea/
+build/
+bin/
+
+# 编译中间文件
+*.o
+*.obj
+*.exe
+*.out
+
+# macOS
+.DS_Store
